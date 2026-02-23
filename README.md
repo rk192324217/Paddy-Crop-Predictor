@@ -91,27 +91,6 @@ The graph below compares actual production data with predicted values from both 
 
 ---
 
-## Repository Structure
-
-```
-Paddy-Production-Interpolation
-│
-├── data
-│   └── sample_paddy_production.csv
-│
-├── notebooks
-│   └── interpolation_analysis.ipynb
-│
-├── images
-│   └── forward_backward_plot.png
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## Key Learning Outcomes
 
 - Applied theoretical numerical methods to real agricultural datasets  
@@ -133,5 +112,6 @@ Paddy-Production-Interpolation
 ---
 
 ## Conclusion
+
 
 This project bridges mathematical theory with real world agricultural data. It demonstrates how classical Numerical Methods can be implemented computationally to approximate crop production values and support analytical decision making.
